@@ -1,6 +1,8 @@
 # JZShare
 ### 1. 引入
 
+将文件夹JZShare里的内容导入你的工程，然后引入
+
 ```
 #import "JZShareCustom.h"
 ```
@@ -27,4 +29,4 @@
 ```
 
 ### 3. 实际效果
-![](http://upload-images.jianshu.io/upload_images/530671-3679da46b84a6cdb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://img.blog.csdn.net/20160527173335746)
