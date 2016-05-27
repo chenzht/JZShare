@@ -1,7 +1,10 @@
 # JZShare
 ### 1. 引入
+首先，请自行下载ShareSDK，我使用的是3.30，下载地址 [ShareSDK For iOS v3.3.0](http://www.mob.com/#/downloadDetail/ShareSDK/ios)
+并将ShareSDK拖入工程根目录，如下图所示
+![](http://img.blog.csdn.net/20160528061802974)
 
-将文件夹JZShare里的内容导入你的工程，然后引入
+再将文件夹JZShare里的内容导入你的工程，然后引入
 
 ```
 #import "JZShareCustom.h"
