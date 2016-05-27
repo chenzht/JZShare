@@ -80,8 +80,8 @@
          {
                  
              case SSDKPlatformTypeWechat:
-                 [appInfo SSDKSetupWeChatByAppId:@"wxc9bc023a285ac21a"
-                                       appSecret:@"5bdee9b0b06d6bde101e89cd9204672c"];
+                 [appInfo SSDKSetupWeChatByAppId:@"wx31d90da6b993af28"
+                                       appSecret:@"9aff7b33d7118c41b8e403ad2b82dfa5"];
                  break;
              case SSDKPlatformTypeQQ:
                  [appInfo SSDKSetupQQByAppId:@"1105357695"
